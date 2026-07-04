@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to ColbyBank cards related QA APIs "
+  contactDetails:
+    name: "Colby Chou - Developer"
+    email: "colbychou@colbybank.com"
+  onCallSupport:
+    - +84 706247363
+    - +84 912827352
