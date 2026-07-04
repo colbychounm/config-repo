@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ColbyBank accounts related LOCAL APIs "
+  message: "Welcome to ColbyBank accounts related LOCAL 1 APIs "
   contactDetails:
     name: "Colby Chou - Developer"
     email: "colbychou@colbybank.com"
